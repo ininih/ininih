@@ -1,16 +1,24 @@
 ## Hi there 👋
+Olá,seja bem-vindo ao meu perfil
+Meu nome é Nicole Fernanda
 
-<!--
-**ininih/ininih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coisas que eu gosto:
+Matemática
+Dançar
+Passear
+Passar um tempo com pessoas que gosto
+Animais
+Ouvir músicas
+Treinar
+Comer bem
 
-Here are some ideas to get you started:
+Adoraria conhecer vários lugares sendo
+nacionais ou internacionais,como por 
+exemplo:
+Vários estados do Brasil
+Espanha
+França
+Coréia do Sul
+EUA
+Inglaterra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
